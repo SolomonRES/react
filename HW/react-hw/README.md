@@ -1,10 +1,9 @@
 # React Setup - Hello World
 
-A React app created for **CSCE 242** to verify the development environment is configured correctly.
-
 ## Quick Start
 
 ```bash
+cd react-hw
 npm install
 npm start
 ```
