@@ -1,9 +1,11 @@
 # React Setup - Hello World
 
+An introduction to using React in CSCE 242
+
 ## Quick Start
 
 ```bash
-cd react-hw
+cd HW/react-hw
 npm install
 npm start
 ```
